@@ -33,5 +33,5 @@ eh ternyata typo... 🤦‍♂️
 
 ---
 
-> _“Ngoding bukan soal siapa cepat, tapi siapa yang lebih sabar.”_  
+> _“Ngoding bukan soal siapa cepat, tapi siapa yang lebih sabar.”_<
 
