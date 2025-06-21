@@ -1,8 +1,7 @@
 # 😎 Halo! Saya Haidar
 
-## 🚀 Sedikit Tentang Gue
-Gue seorang mahasiswa Semester 2 yang lagi seru-serunya ngulik dunia WebDev Dan Cybersecurity  
-Ngoding itu asik, tapi ngedebug sambil ngopi itu baru seni 😌☕
+## ABOUT ME
+-----Gue seorang mahasiswa Semester 2 yang lagi seru-serunya ngulik dunia WebDev Dan Cybersecurity----- 
 
 - 🔨 Lagi sibuk ngulik: PADAHAL ENGGAK
 - 🌱 Lagi belajar keras biar jago 
