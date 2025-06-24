@@ -7,7 +7,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
-- 📧 Email: haidaralfarisi125@gmail.com
 - 📱 Instagram: dalfuserx
 
 > _“Ngoding bukan soal siapa cepat, tapi siapa yang lebih sabar”_<
